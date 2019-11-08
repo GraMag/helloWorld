@@ -1,6 +1,6 @@
 package CaC;
 
-public class HolaMundo {
+public class helloWorld {
 
 	public static void main(String[] args) {
 		
